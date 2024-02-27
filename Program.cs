@@ -37,8 +37,7 @@ namespace Find_The_Number // Remplacez MonNamespace par le nom de votre namespac
                 }
                 nombreEssais++;
                 Console.WriteLine($"Bravo, vous avez trouvé le nombre mystère en {nombreEssais} fois !");
-
-
+                
             Console.ReadKey();
         }
     }
